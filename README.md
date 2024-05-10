@@ -1,2 +1,2 @@
 # simple-web
-wensite
+website
